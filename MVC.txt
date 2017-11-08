@@ -1,0 +1,83 @@
+MVC Advantages
+History of ASP.Net MVC
+ASP.Net MVC vs ASP.Net Core 1
+IApplicationBuilder.Use vs IApplicationBuilder.Run
+Architecture of MVC
+AcceptVerbs for Controller
+ViewResults
+Action vs RenderAction
+Partial vs RenderPartial
+Output Caching
+NonAction
+Editor and Display templates
+ViewBag and ViewData and TempData
+HttpHandler in MVC
+ASP.Net 5 Middleware
+Action Filters
+Data annotations
+Client side unobtrusive validation
+Routing
+Model Binding
+Custom Value Provider
+Model Validation
+Remote Validation
+WebResource.axd
+Areas
+Cross Site scripting attack
+UpdateModel and TryUpdateModel
+DisplayMode
+ExceptionHandling
+RenderBody, RenderPage and RenderSection
+Bundling and Minification
+Authentication and Authorization
+TryValidateModel
+New changes in ASP.NET Core
+Hosting
+Async actions
+Nested Layouts
+View Start file/ view Imports
+File upload
+Browser link
+Controller factory
+Custom controls
+Action invoker
+Razor Engine
+Partial view & Child only actions
+AJAX GET/POST JSON Object
+DisplayFor DisplalyForModel
+Content Type and Data Type
+App Pool Integrated vs classic
+App Pool
+App Pool vs Workerprocess vs appdomain
+========================================
+WebAPI
+========================================
+Http Verbs
+Model Validation
+Delegating Handler
+Action Filters
+Exception Handling
+Routing
+Token based Authhentication
+Authorization
+WCF vs Web API
+Web API Request Flow
+Media Formatters
+Content Negotiation
+Hosting
+CORS
+versioning
+Odata
+CSRF
+Action Filters Order
+REST 
+
+
+SQL
+
+
+https://blog.sqlauthority.com/sql-server-interview-questions-and-answers/
+
+
+OOPS
+https://www.indiabix.com/technical/dotnet/object-oriented-programming/

@@ -1,0 +1,73 @@
+1st
+
+- Custom Directives - usage in your application
+- Isolate scope of directives
+- Variable hoisting
+- Closure
+- Http verbs (including HTTP options is used when making cross domain requests using ajax)- We can use JSONP
+- Watch, WatchCollection
+- Difference between Service and Factory 
+- Experience bootstrap, Where did you use bootstrap, How it is helpful?
+
+- Action filters in MVC
+- Extension Methods 
+- Exception handling in MVC(controller, action and global level)
+- Http Handler
+- How to make request cross domain api's
+- How to prevent CSRF attack in MVC
+- Exception Filter, From which interface it is implemented, methods in it?
+- All Filters with Interfaces and look for built in Attributes.
+
+- You have an array with range of 0-9 with 1 missing element in this range write program to find out element which is missing.
+
+2nd
+
+- Custom Directives - where did you implemented
+- Why to use angular when we are having jquery?
+
+- What is abstraction
+- What is difference between interface and abstract class, Where did you use in real time scenario
+- Extension methods
+- What is difference between asp.net web forms and asp.net mvc? Advantage of asp.net mvc over web forms?
+- Project architecture
+- We have 5 common properties which need to available in 3 classes, Which is best way to implement it?
+  do you use abstarct class/interface/class/sealed class or you will declare these properties in all classes? 
+
+3rd
+
+- What is angular js
+- Inheritance
+- Can one class can implement 2 classes? If not why?
+- If application is more products to be displayed in one page, How can improve the performance of application?
+- How can you display top 5 products in above application? 
+- If one database table is having user transactions within application like click, product click, I want to display user action summary from this table which is having about 40 million records. How will you implement?
+- What is stack, Queue, Heap? where you use this in real time scenario? In depth asked
+
+
+
+
+Satvika
+
+Digest Cycle   
+Promises
+Angular routing
+Custom Filters 
+Custom Directives
+what is angular ,Advantages of using angular, y is it different from other javascrpt frameworks
+what is $scope
+controllers
+services vs factory vs provider
+watchers and types
+
+
+.net clr
+Linq questions
+Interface , Abstraction realtime usage
+collections in c#-- stack , queue etc
+
+Asp.net mvc filters
+Partial Views
+Session management techniques --> both mvc and asp.net
+
+
+SQL questions may be, i mentioned mongodb so i was asked those questions.
